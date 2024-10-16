@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Karina",
+            "email": "karina@karina.com.br",
+            "password": "123456",
+            "phone":"11999999999"
+        },
+        {
+            "id": 2,
+            "name": "Malcon",
+            "email": "malcon@malcon.com.br",
+            "password": "123456",
+            "phone":"11999999999"
+        }
+    ]
+}

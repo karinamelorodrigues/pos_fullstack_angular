@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Karina",
+        "email": "karina@karina.com.br",
+        "gender":"feminino"
+    },
+    {
+        "id": 2,
+        "name": "Malcon",
+        "email": "malcon@malcon.com.br",
+        "gender":"masculino"
+    }
+]
